@@ -1,0 +1,54 @@
+
+## TRELLO
+Thriller is a great project management and collaboration tool.
+Trello project tool works on the Kanban principle.
+
+With Kanban principle , you assign to each project a visual board. Each project then subdivided into work flows which correspond to columns in a convent project. For each Task in your workflow you create a card and place this card in a column. You assign specific responsible person for each task and you can assign a deadline for each task all.
+All this data I visualised any aboard.
+In trailer you organise your projects in workspaces. You can create a project for your article delivery for example and practically for any task you’re working on. Trello is equally suitable for for any size of the project. If you need to work to the deadline, Trello can be a great tool to trace your performance. To stay on top of your job.
+With a subscription you can access a number of powerful power ups for your trailer project which Give you access to many more very useful tools. For example you can view your project as a timeline or you can view the timeline across your boards. The simplest version of trailer is free to use. For a medium small to medium size writing project free version is perfectly  does the job.
+
+
+## Confluence 
+
+Confluence is a part of Atlassian suite of products. It is a sophisticated And versatile collaborative documentation tool.
+In confluence you can organise your in workspaces.
+At the heart of confluence is a Text editor. Each individual piece of content is called a page in in conference confluence. The suite of documents in your workspace can be organised in a tree like fashion By creating subpages under the parent pages.( by nesting thing some pages under the parent pages.)
+In addition, you can assign a label to a page. And in this way you can create a cloud of tags in order to be able to find your documents by their labels instead of their location.
+Members of your team can watch a page in order to be notified of every update.
+You can assign permissions to each page to provide a secure access for members of your team. New
+As a part of Atlas sense suite of products, confluence can benefit of integrations with other useful products. For example,  trello , becoming recently a part of the suite of products, you can taken advantage by inserting timelines from your trailer project.
+The work in Confluence is organised in workspaces. You can have a separate workspace for each of your projects as As well as your personal space for your personal notes.
+Confluence allows lots of customization. There is a great number of plugins and integrations with which you can personalise your workspace.
+You can assign different permissions The different members of your team. You can also assign tasks and track 
+
+Confluence allows lots of customization. You can attach media files and text files to your pages, you can create information panels you can insert timelines and other data from other application in the add last en suite call ma you can insert code snippets and markdown text, dates and tables, in your confluence editor.
+For the most common types of documents confluence proposal a number of useful templates to use which saves you time and organisers your documents.
+
+
+Conference allows a version control. Every time you  your publish new version of a page, confluence creates a new version of a page. You can compare different versions and restoring all the versions if necessary.
+
+When you when you are ready to publish your page you can choose several types of publishing your page: if you feel your page needs more revision, you can publish without notifying the watchers. If your page is ready to be shared with the others you can press publish button. In this case the new version of your page is created.
+Confluence is really very powerful collaborative tool. But it needs some time to learn about all the features.
+
+## Pen to Print
+
+PEN TO PRINT
+ Sometimes you are inevitably get stuck  During your writing process.
+ In this situations all you need sometimes is to change the way you write to change where you ride. Simple things can be amazingly helpful.
+ 
+If you like to  handwriting , you might try it you might try just that. With the up like pen to print you don’t need to lose your notes. And you don’t need to do that tedious job of typing them in. All you need to do is the capture the image of your pages on your camera and upload them to  to enter pen to write App.  The app is then evaluating your text line by line and translate it into digital text. You can edit your notes right after tax recognition process line by line and accept them.
+
+With the free version of the app you can only download the extracted  text on your device. The premium versions lets you export it for .
+ 
+Focus to do is another time management apps, which can help you to get your job done in time. 
+Focus to the is based on a pomodoro technique. Pomodoro technique was invented in 1990s by a developer and entrepreneur Francesco  Cirilio.
+The idea of the technique is that you write down the tasks for your day and you estimate the time each one of them is going to take.  You breakdown your work into short intervals during which you will be focused on your work. You decide the length of such interval, 
+ 
+You then decide   You then decide on the length of a time interval when you are going to focus on your desk. In that fashion you work on your desk in a serious orfocused time periods. You also assign a short breaks  , normally about 5 or 10 minutes, between each  Focused interval.
+
+Using pomodoro technique, you gradually train yourself to work on your tasks in a focused manner. Taking breaks helps you to stay productive for a long period of time. Focus to do is an  app, which allows you to set focused periods of time and the brakes.
+
+You can create projects in your up and then you can assign tasks to each project. You can assign deadlines for your project. And your tasks. In this manner, the app will keep you updated on the dusks do today and on upcoming tasks too. If you struggle to concentrate on  on your work, this app can be a great help for you.
+It has simple and intuitive interface and it’s free.
+

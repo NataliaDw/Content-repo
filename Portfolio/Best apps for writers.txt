@@ -1,0 +1,115 @@
+# Lead
+#bestapps #article #blog #listblog
+
+There may be many reasons why you are coming to write. You may be a manager, busy writing proposals and reports, a journalist, a technical or a content writer. In any case are devoting huge amount of time to writing. Whatever your reasons are, efficiency and productivity are of huge importance.
+
+Writing is perceived as a creative process greatly dependent on mood and impulse. The truth is , we write to a deadline and we strive to produce a quality document. 
+
+To be efficient, it’s important that your working environment suits well your individual needs. And to do that you need to have tools that help your work to run smoothly. 
+
+Nowadays we have a choice of apps and tools to help us with all aspects of our job , be it writing, editing, project management or controlling our focus.  
+
+It’s important that we crate an ecosystem of tools that suit our personality.
+
+
+## iA Writer
+Mac, iOS, Windows, Android 
+
+ iA Writer is a new product it has been on the market for quite awhile. It provides you a clear simple interface which allows you to focus on your writing without any distraction. It’s markdown compatible environment and you can ride your documents in markdown or text formats.
+
+The unique feature of this word processor is that it highlights the sentence Or paragraph call mom which you are working on, and dims the rest of the text , helping you to concentrate on the Words that you are working on.
+
+A particularly interesting new feature in I am writing is that it allows you highlighting different parts of speech in different colours. This simple feature Helps you to evaluate the rhythm and the structure of your text. And there was a great additional feature for this wonderful working environment: it is a style check.
+
+For anybody who writes seriously and writes a lot, it is very important to make sure that your writing is free from unnecessary words which pollutes your text not adding any useful information to it but often working to confuse   and simply bore the reader. The style check will help you to get rid of clichés of Overly complex structures in your text
+improve readability and delivery high quality text in the end.
+ 
+iA Writer allows you organising your note in two ways: in traditional folders or by using tags. When you are using tags, you note is no longer associated with the location, but with the category or topic. In that way, you can retrieve notes related to a specific subject, no matter where they are. 
+
+Export to multiple formats is available.
+
+And as a cherry on the cake, iA Writer allows a smooth export to and from Microsoft Word. This is a very useful feature since many of our writing products has to be submitted in Microsoft Word format.
+
+It’s a great tool when you want to Focus and get your job done. Despite its simplicity it’s a beautiful product and it’s a real pleasure to work in this working environment. 
+
+## Bear
+Mac, iOS
+
+Bear is another app to provide you with distraction-free environment.Unlike frugal simplicity of iA Writer, Bear provides richer opportunities for personalisation.
+
+It supports markdown language and it provides smart markdown writing by hiding markdown symbols. It allows inserting images and even create your own inline handwritten notes and sketches. 
+ 
+With Bear you use tags to organise your files. It provides rich opportunities to work with tag cloud. Apart from 
+
+You can replace hash tags with individual icons. , there is a possibility to create nested dogs, and you can assign a personalised icons to each tag. In general, the bear up allows you to personalise your working environment much more then iA Writer. A number of themes are available. There also allows to insert inline media such as pictures.The paid versions of the Bear up allow encryption of your files ensuring a better security.   
+
+## MS Word
+Windows, Mac, iOS, Android
+
+But here I would like to mention it for another reason and that is dictation. If you’re comfortable with dictation then Microsoft provides an indispensable tool to help you with it. It provides instant transcription. It’s impressively accurate. And it can’t can help you to achieve an incredible increase in productivity. While average person can type about 40 what’s in a minute, the speed of conversation is about 150 words per minute.   ( https://www.happyscribe.com/blog/benefits-of-writing-a-book-by-dictation/ ). 
+You can do so much more work if you get used to dictation you can do so much work with dictation and Microsoft is well your indispensable tool for that. You can get so much more work done with dictation. And Microsoft is a reliable an accurate tool for that and it’s free.
+
+You can use a variety of tools for recording your messages your interviews or your reports. You can later transcribe them with Microsoft by uploading them.   There is no limit on how long your recording can be. You can equally record conversations or meetings. Microsoft recognises different speakers And marks them in the text as such.  Always those makes a mark makes Microsoft the most powerful tool for dictation and the most convenient one.
+If you can learn dictate and you can get used to it Give an impressive boost to your productivity.
+Another useful feature of dictation tool is that you can use punctuation and other command and other commands. For example you can say dot to finish your sentence or you can say, to put, in your sentence. Dictation can be a difficult same to start with. But if you can get used to it it can provide spectacular benefits.
+With your dictation tool you can  break away from the screen.   and change the mode  in which you are working.
+
+## Pen to Print
+
+
+## Trello
+Trello is a great project management and collaboration tool.
+Trello project tool works on the Kanban principle.
+
+With Kanban, you visualise your project by mapping a project  on a board. The workflows in the project correspond to list columns on the board. In Trello  And for each task in a workflow you create a card and place it in a list. If you assign a card to a person or establish delivery date, you keep all that information on your card.
+
+/Screenshot Trello cards.png
+
+Trello allows you to keep track your project in a simple, intuitive way. 
+
+With the premium version Trello provides timeline view for project. You can adjust dates, add new cards and lists, and switch between list, member or label view.  
+
+In Trello you organise your projects in workspaces. You can create a project for your article delivery or any task you’re working on. Trello is a good option for small to medium size the projects. If you are a freelancer and the submission times are critical for you, this is great simple tool to ensure you stay on track. 
+
+With a Premium version gives you access a numerous of power ups for your Trello project which Give you access to many more very useful tools. For example you can view your project as a timeline or you can view the timeline across your boards. The simplest version of trailer is free to use. For a medium small to medium size writing project free version is perfectly  does the job.
+
+## Confluence 
+
+Confluence is a part of Atlassian suite of products. It is a sophisticated and versatile collaborative documentation tool.In Confluence you can organise your in workspaces.
+
+At the heart of Confluence is a Text editor. Each individual piece of content is called a page in in Confluence Confluence. The suite of documents in your workspace can be organised in a tree like fashion By creating subpages under the parent pages.( by nesting thing some pages under the parent pages.)
+
+In addition, you can assign a label to a page. And in this way you can create a cloud of tags in order to be able to find your documents by their labels instead of their location.
+
+Members of your team can watch a page in order to be notified of every update.
+
+You can assign permissions to each page to provide a secure access for members of your team. New as a part of Atlas sense suite of products, Confluence can benefit of integrations with other useful products. For example,Trello, becoming recently a part of the suite of products, you can taken advantage by inserting timelines from your trailer project.
+
+The work in Confluence is organised in workspaces. You can have a separate workspace for each of your projects as As well as your personal space for your personal notes.
+Confluence allows lots of customization. There is a great number of plugins and integrations with which you can personalise your workspace.
+You can assign different permissions The different members of your team. You can also assign tasks and track 
+
+Confluence allows lots of customization. You can attach media files and text files to your pages, you can create information panels you can insert timelines and other data from other application in the add last en suite call ma you can insert code snippets and markdown text, dates and tables, in your Confluence editor.
+For the most common types of documents Confluence proposal a number of useful templates to use which saves you time and organisers your documents.
+
+
+Confluence allows a version control. Every time you  your publish new version of a page, Confluence creates a new version of a page. You can compare different versions and restoring all the versions if necessary.
+
+When you when you are ready to publish your page you can choose several types of publishing your page: if you feel your page needs more revision, you can publish without notifying the watchers. If your page is ready to be shared with the others you can press publish button. In this case the new version of your page is created.
+Confluence is really very powerful collaborative tool. But it needs some time to learn about all the features.
+
+
+
+
+POMODORO 
+
+
+
+
+
+
+
+
+
+
+
